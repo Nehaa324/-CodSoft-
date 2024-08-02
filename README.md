@@ -3,6 +3,7 @@
 **PROJECT/TASK-1: BOOK RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING BASED**
 Welcome to the Book Recommendation System! This project leverages collaborative filtering to provide tailored book suggestions based on user preferences and reading history.
 <br>
+
 ![booksphotos](https://github.com/user-attachments/assets/c5e47dff-9d7b-4b8b-aff1-3472f81dbd71)
 
 <br>
