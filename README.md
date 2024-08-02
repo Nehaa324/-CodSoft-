@@ -2,8 +2,12 @@
 <br>
 **PROJECT/TASK-1: BOOK RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING BASED**
 Welcome to the Book Recommendation System! This project leverages collaborative filtering to provide tailored book suggestions based on user preferences and reading history.
-![booksphotos](https://github.com/user-attachments/assets/61ee5f9a-1c74-4c6f-ab76-df4d00e90d0f)
 <br>
+![booksphotos](https://github.com/user-attachments/assets/c5e47dff-9d7b-4b8b-aff1-3472f81dbd71)
+
+<br>
+
+
 **About the Project**
 The Book Recommendation System uses advanced collaborative filtering techniques to analyze user interactions and preferences. By understanding the reading patterns of users with similar tastes, it generates personalized book recommendations that match individual interests.
 In short, collaborative filtering systems are based on the assumption that if a user likes item A and another user likes the same item A as well as another item, item B, the first user could also be interested in the second item .
