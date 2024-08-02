@@ -17,20 +17,20 @@ In short, collaborative filtering systems are based on the assumption that if a 
 <br>
 **Key Features**
 <br>
-Personalized Recommendations: Get book suggestions tailored to your unique reading habits.📖📚
+🔹Personalized Recommendations: Get book suggestions tailored to your unique reading habits.📖📚
 <br>
-Web Application: There is a streamlit web application that can recommend various kinds of similar books based on an user interest.📱
+🔹Web Application: There is a streamlit web application that can recommend various kinds of similar books based on an user interest.📱
 <br>
-Adaptive Learning: Continuously improves recommendations as more data is collected.💡
+🔹Adaptive Learning: Continuously improves recommendations as more data is collected.💡
 <br>
 <br>
 **How It Works**
 <br>
-Data Collection: The system gathers data on user ratings and interactions.
+▪️Data Collection: The system gathers data on user ratings and interactions.
 <br>
-Filtering Algorithm: Collaborative filtering analyzes user preferences to identify patterns and similarities.
+▪️Filtering Algorithm: Collaborative filtering analyzes user preferences to identify patterns and similarities.
 <br>
-Recommendation Engine: Generates book suggestions based on identified preferences and trends.
+▪️Recommendation Engine: Generates book suggestions based on identified preferences and trends.
 <br>
 
 ![Screenshot (1649)](https://github.com/user-attachments/assets/7d2293f7-25f9-4207-9ac5-9f28d153eed7)
