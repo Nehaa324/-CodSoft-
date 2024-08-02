@@ -1,8 +1,7 @@
 # **CodSoft**
 <br>
-**PROJECT-1:**
-<br>
-**BOOK RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING BASED**
+
+**PROJECT-1:BOOK RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING BASED**
 <br>
 Welcome to the Book Recommendation System! This project leverages collaborative filtering to provide tailored book suggestions based on user preferences and reading history.
 <br>
