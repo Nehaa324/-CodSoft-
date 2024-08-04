@@ -49,6 +49,7 @@ https://www.kaggle.com/datasets/ra4u12/bookrecommendation
 <br>
 Step into the future of Tic Tac Toe with our AI-powered version! This isn't just any game—it's a brainy showdown where you face off against a highly intelligent AI opponent. Using the Minimax algorithm, our AI thinks multiple steps ahead to challenge your every move.
 <br>
+<br>
 **💡 Key Features**
 <br>
 **🎮 Interactive Gameplay:** Choose to play as X or O and challenge the AI.
@@ -61,8 +62,11 @@ Step into the future of Tic Tac Toe with our AI-powered version! This isn't just
 <br>
 **🔍Learning Opportunity:** This project was a great way to delve deeper into game development and AI logic.
 <br>
+<br>
 **🛠️ Built with Python and Pygame**
 Leveraging the power of Python and the Pygame library, this project not only provides a fun gaming experience but also serves as an educational tool for those interested in learning about game development and AI algorithms.
+<br>
+<br>
 **📸 Demo**
 <br>
 ![Screenshot (1655)](https://github.com/user-attachments/assets/09f08913-714b-43a8-af5c-95dd6f77481b)
